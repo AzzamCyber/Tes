@@ -1,20 +1,6 @@
 #!/system/xbin/bash
 #Bersihkan Layar
 clear
-print("▶ Subscribe channel gw dulu Biar Work !")
-os.system("xdg-open https://www.youtube.com/channel/UCme204gftypglXk2vJiInhA")
-if "linux" in sys.platform.lower():
-	os.system(
-			"clear"
-	)
-elif "win" in sys.platform.lower():
-	os.system(
-			"cls"
-	)
-else:
-	os.system(
-			"clear"
-	)
 blue='\e[1;34m'
 green='\e[1;32m'
 purple='\[1;35m'
@@ -24,24 +10,24 @@ white='\e[1;37m'
 yellow='\e[1;33m'
 sleep 1
 echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
-toilet -f standard -F gay "AzzamCyber"
+toilet -f standard -F gay "Cyber Mojokerto"
 echo "\033[31;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 echo "Author : " Azzam Cyber"
 " Team : " JAWA CYBER TEAM"
 echo " Subscribe Me : "AzzamCyber"
-" Pesan : "Wajib Subscribe Ya Biar Pulsanya Masuk :) Like Juga:)"
+" Pesan : "Gunakan Dengan Bijak
 sleep 1
 echo "ThanksTo:"
-echo "AZZAM CYBER TEAM"
+echo "Jawa Cyber
 echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 sleep 3
-echo "Kumpulan Kumpulan Pulsa All Operator"
-echo "Gunakan Pakai +62 #Contoh +62xxx:"
+echo "Track Location For Instragram
+echo "Gunakan Pakai @abc #Contoh @xx:" 
 read p;
 
-echo "Nomor Sedang Di Proses..."
+echo "User Sedang Di Proses...."
 sleep 2
 echo "\033[37;1m█10%" 
 sleep 1
@@ -55,7 +41,7 @@ echo "█████50%"
 sleep 3
 echo "██████60%" 
 sleep 5
-echo "\033[31;1mNomor Gagal Di Proses..""\033[32;1mSilahkan Masukkan Kembali No Anda:"
+echo "\033[31;1mUser Gagal Di Proses..""\033[32;1mSilahkan Masukkan Kembali User Anda:"
 read p;
 sleep 3
 echo "Sedang Menuju Proses..."
@@ -80,7 +66,7 @@ echo "█████████90%"
 sleep 4
 echo "██████████100%"
 sleep 3
-echo "\033[32;1mSilahkan Masukkan Jumlah Yang Anda Mau:"
+echo "\033[32;1mSilahkan Masukkan Pasword Script:"
 read p;
 sleep 2
 echo "Sedang Menuju Proses..."
@@ -104,7 +90,7 @@ echo "█████████90%"
 sleep 4
 echo "██████████100%"
 sleep 6
-echo "\033[34;1mJumlah Yang Anda Masukkan Sukses...""\033[32;1mSilahkan Tunggu 5 Menit..."
+echo "\033[34;1mLocation Di Temukan ! Silahkan Cek Di Link Ini -> https://earth.google.com/web/@-7.4632106,112.4312552,22.04297846a,500d,35y,0h,0t,0r"
 sleep 2
 sleep 3
 echo "Ketik Exit Untuk Keluar"
