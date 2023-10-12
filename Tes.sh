@@ -23,7 +23,7 @@ echo "AZZAM CYBER TEAM"
 echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 sleep 3
-echo "Track Location For Instragram"
+echo "Track Location For Email & Nomor"
 echo "Gunakan Pakai @abc #Contoh @abcxxx:"
 read p;
 
@@ -90,7 +90,7 @@ echo "█████████90%"
 sleep 4
 echo "██████████100%"
 sleep 6
-echo "\033[34;1mLocation Di Temukan ! Silahkan Cek Di Link Ini -> https://earth.google.com/web/@-7.4632106,112.4312552,22.04297846a,500d,35y,0h,0t,0r"
+echo "\033[34;1mLocation Di Temukan ! Silahkan Cek Di Link Ini -> https://www.google.com/maps/@-7.9620821,112.6243852,20.25z?entry=ttu"
 sleep 2
 sleep 3
 echo "Ketik Exit Untuk Keluar"
